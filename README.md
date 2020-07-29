@@ -2,7 +2,9 @@
 
  `云计算` / `区块链` / `程序开发🐶`  /
 
- `Linux` / `Docker` / `Kubernetes` / `Solidity` / `Python` / `拾火柴精神探索者🔥` / `Open Source Developer💕` / ``
+ `Docker🐋` / `Kubernetes🚢` / `DevOps🛠` / `Python🐍` /
+
+ `拾火柴精神探索者🔥` / `Open Source Developer💕` /
 
 ---
 
